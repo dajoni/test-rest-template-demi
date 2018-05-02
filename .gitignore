@@ -1,0 +1,15 @@
+/.idea
+/logs/
+/dist/
+/build/
+/.gradle/
+/.vscode/
+/.settings/
+/out/
+
+.DS_Store
+.project
+.classpath
+.codeclimate.yml
+*.iml
+*.db
